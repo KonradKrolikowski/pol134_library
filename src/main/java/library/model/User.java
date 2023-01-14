@@ -8,6 +8,6 @@ public class User {
     private Integer id;
     private String login;
     private String password;
-    protected String name;
+    private String name;
 }
 
